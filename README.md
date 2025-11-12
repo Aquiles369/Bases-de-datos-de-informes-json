@@ -49,7 +49,7 @@
 
 # 1
 
-• análisis de JavaScript <a href="https://github.com/Aquiles369/Bases-de-datos-de-informes-json/blob/main/assets/json/js_analisis.json" target="_blank" rel="noopener">JSON con notas personales de cada uno de los 177 informes</a> ”.<br><br>
+• análisis de JavaScript <a href="https://github.com/Aquiles369/Bases-de-datos-de-informes-json/blob/main/assets/json/js_177.json" target="_blank" rel="noopener">JSON con notas personales de cada uno de los 177 informes</a> ”.<br><br>
 
 
 
