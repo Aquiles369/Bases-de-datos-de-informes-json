@@ -32,12 +32,17 @@
 
 **Aporta: una base curada de informes en JSON (notas, capturas y medios). Beneficia: acelera el aprendizaje, facilita la reproducción y colaboración entre hunters y organiza el conocimiento para auditar a escala. Tool del gestor de informes : https://github.com/Aquiles369/Gestor-de-Informes**
 
-
 <br><br>
+<picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
+<br><br>
+
 ## Indice
 
 - [js analisis](#1)
 
+<br><br>
+
+<picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
 <br><br>
 
@@ -47,7 +52,7 @@
 
 
 
-
+<br><br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
